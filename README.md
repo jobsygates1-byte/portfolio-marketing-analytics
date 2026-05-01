@@ -19,6 +19,7 @@ Este repositorio contiene los scripts, flujos de automatización y herramientas 
 **Descripción:** Creación de una matriz de planificación que actualiza automáticamente la estructura de días y fechas al seleccionar el mes, eliminando el 100% de la carga operativa manual previa.
 
 ---
-🔗 **Evidencia Audiovisual y Reportes Estratégicos:** [PEGA AQUÍ TU ENLACE DE DRIVE PERSONAL]
+🔗 **Evidencia Audiovisual y Reportes Estratégicos:** 
+https://drive.google.com/drive/folders/1BItBihP4W603tJvBS8bUyf4n61_1XOKU?usp=sharing
 
 👨‍💻 **Desarrollado por:** Bryan Andrés De La Cadena Muñoz
